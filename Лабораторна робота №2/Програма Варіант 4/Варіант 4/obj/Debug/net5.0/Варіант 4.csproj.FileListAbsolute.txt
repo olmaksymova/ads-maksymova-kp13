@@ -1,0 +1,16 @@
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.exe
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.deps.json
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.runtimeconfig.json
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.runtimeconfig.dev.json
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.dll
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\ref\Варіант 4.dll
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\bin\Debug\net5.0\Варіант 4.pdb
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.csproj.AssemblyReference.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.AssemblyInfoInputs.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.AssemblyInfo.cs
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.csproj.CoreCompileInputs.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.dll
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\ref\Варіант 4.dll
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.pdb
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\асд\Лабораторна робота №2\Варіант 4\Варіант 4\obj\Debug\net5.0\Варіант 4.genruntimeconfig.cache
